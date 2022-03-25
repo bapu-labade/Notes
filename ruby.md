@@ -16,3 +16,8 @@ Thread
 
 https://www.rubyguides.com/2015/07/ruby-threads/
 https://www.rubyguides.com/2018/05/singleton-pattern-in-ruby/
+
+
+Ruby design pattern
+
+https://github.com/davidgf/design-patterns-in-ruby/blob/master/singleton.md
