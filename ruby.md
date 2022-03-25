@@ -10,3 +10,8 @@ https://www.zenspider.com/ruby/quickref.html#types
 
 
 https://github.com/justmarkham/python-reference/blob/master/reference.py
+
+
+Thread
+
+https://www.rubyguides.com/2015/07/ruby-threads/
