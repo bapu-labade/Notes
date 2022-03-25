@@ -1,0 +1,12 @@
+# Notes
+
+# Ruby method lookup
+https://gist.github.com/damien-roche/351bf4e7991449714533
+https://dev.to/abbiecoghlan/ruby-modules-include-vs-extend-vs-prepend-4gmc
+
+
+
+https://www.zenspider.com/ruby/quickref.html#types
+
+
+https://github.com/justmarkham/python-reference/blob/master/reference.py
