@@ -15,3 +15,4 @@ https://github.com/justmarkham/python-reference/blob/master/reference.py
 Thread
 
 https://www.rubyguides.com/2015/07/ruby-threads/
+https://www.rubyguides.com/2018/05/singleton-pattern-in-ruby/
